@@ -1,6 +1,6 @@
 {
-  "name": "wot-oauth2orize",
-  "version": "1.0.1",
+  "name": "wotoauth2orize",
+  "version": "1.0.0",
   "description": "OAuth 2.0 authorization server toolkit for Node.js.This is a fork from oauth2orize and addapted for a project wearortear",
   "keywords": [
     "oauth",
