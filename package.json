@@ -1,7 +1,7 @@
 {
-  "name": "oauth2orize",
+  "name": "wot-oauth2orize",
   "version": "1.0.1",
-  "description": "OAuth 2.0 authorization server toolkit for Node.js.",
+  "description": "OAuth 2.0 authorization server toolkit for Node.js.This is a fork from oauth2orize and addapted for a project wearortear",
   "keywords": [
     "oauth",
     "oauth2",
@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/oauth2orize.git"
+    "url": "git://github.com/neerajgoel82/oauth2orize.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/oauth2orize/issues"
+    "url": "http://github.com/neerajgoel82/oauth2orize/issues"
   },
   "licenses": [
     {
